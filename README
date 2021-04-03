@@ -1,3 +1,5 @@
+FIX:   ./configure --disable-dependency-tracking
+
 =============================
 MIT Language Modeling Toolkit
 =============================
